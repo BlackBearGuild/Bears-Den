@@ -1,14 +1,10 @@
+import { AppShell } from "@/components/app-shell"
+import { HomePage } from "@/components/home-page"
+
 export default function Home() {
   return (
-    <div
-      style={{
-        maxWidth: 1280,
-        margin: '0 auto',
-        padding: '2rem',
-        textAlign: 'center',
-      }}
-    >
-      Start prompting.
-    </div>
+    <AppShell>
+      <HomePage />
+    </AppShell>
   );
 }
