@@ -1,0 +1,19 @@
+{
+  "id": "prt_8fc6161b3001muCt04T71KRld8",
+  "messageID": "msg_8fc615316001bFh51bjsLmDdAd",
+  "sessionID": "ses_7039eb0c8ffeHiDKeVwpt4nci7",
+  "type": "tool",
+  "tool": "read",
+  "callID": "toolu_01VNiURG5rEPHnXkebmeNGLU",
+  "state": {
+    "status": "error",
+    "input": {
+      "filePath": "/home/user/project/.env.local"
+    },
+    "error": "Error: File not found: /home/user/project/.env.local\n\nDid you mean one of these?\n/home/user/project/.env",
+    "time": {
+      "start": 1756580898015,
+      "end": 1756580898033
+    }
+  }
+}

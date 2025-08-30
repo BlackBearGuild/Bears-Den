@@ -1,0 +1,24 @@
+{
+  "id": "prt_8fc61820f001XFKjbSBbNPduVZ",
+  "messageID": "msg_8fc615316001bFh51bjsLmDdAd",
+  "sessionID": "ses_7039eb0c8ffeHiDKeVwpt4nci7",
+  "type": "tool",
+  "tool": "list",
+  "callID": "toolu_01Eh7GNaqvopgEYQbAmCbKZm",
+  "state": {
+    "status": "completed",
+    "input": {
+      "path": "/home/user/project/lib"
+    },
+    "output": "/home/user/project/lib/\n  env-config.ts\n  utils.ts\n",
+    "metadata": {
+      "count": 2,
+      "truncated": false
+    },
+    "title": "lib",
+    "time": {
+      "start": 1756580905543,
+      "end": 1756580905554
+    }
+  }
+}

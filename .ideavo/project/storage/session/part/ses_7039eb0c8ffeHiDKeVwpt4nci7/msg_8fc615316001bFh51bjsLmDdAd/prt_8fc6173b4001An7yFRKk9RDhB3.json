@@ -1,0 +1,25 @@
+{
+  "id": "prt_8fc6173b4001An7yFRKk9RDhB3",
+  "messageID": "msg_8fc615316001bFh51bjsLmDdAd",
+  "sessionID": "ses_7039eb0c8ffeHiDKeVwpt4nci7",
+  "type": "tool",
+  "tool": "grep",
+  "callID": "toolu_014vRK7cjh6hWqKGDPTRYq24",
+  "state": {
+    "status": "completed",
+    "input": {
+      "pattern": "createClient|supabase",
+      "include": "*.ts,*.tsx"
+    },
+    "output": "No files found",
+    "metadata": {
+      "matches": 0,
+      "truncated": false
+    },
+    "title": "createClient|supabase",
+    "time": {
+      "start": 1756580902129,
+      "end": 1756580902140
+    }
+  }
+}
